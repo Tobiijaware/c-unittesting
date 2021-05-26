@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Models\bin\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Models.deps.json
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Models\bin\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Models.dll
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Models\bin\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Models.pdb
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Models\obj\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Models.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Models\obj\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Models.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Models\obj\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Models.AssemblyInfo.cs
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Models\obj\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Models.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Models\obj\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Models.dll
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Models\obj\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Models.pdb

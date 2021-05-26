@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Data\bin\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Data.deps.json
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Data\bin\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Data.runtimeconfig.json
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Data\bin\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Data.runtimeconfig.dev.json
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Data\bin\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Data.dll
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Data\bin\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Data.pdb
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Data\bin\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Models.dll
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Data\bin\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Models.pdb
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Data\obj\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Data.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Data\obj\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Data.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Data\obj\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Data.AssemblyInfo.cs
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Data\obj\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Data\obj\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Data.csproj.CopyComplete
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Data\obj\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Data.dll
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Data\obj\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Data.pdb
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Data\obj\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Data.genruntimeconfig.cache

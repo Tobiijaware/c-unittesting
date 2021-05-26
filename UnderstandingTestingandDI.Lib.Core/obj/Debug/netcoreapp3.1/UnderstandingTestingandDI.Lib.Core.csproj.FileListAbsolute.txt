@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Core\bin\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Core.deps.json
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Core\bin\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Core.dll
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Core\bin\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Core.pdb
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Core\bin\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Data.dll
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Core\bin\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Models.dll
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Core\bin\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Data.pdb
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Core\bin\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Models.pdb
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Core\obj\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Core.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Core\obj\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Core.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Core\obj\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Core.AssemblyInfo.cs
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Core\obj\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Core\obj\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Core.csproj.CopyComplete
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Core\obj\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Core.dll
+C:\Users\hp\source\repos\UnderstandingTestingandDI\UnderstandingTestingandDI.Lib.Core\obj\Debug\netcoreapp3.1\UnderstandingTestingandDI.Lib.Core.pdb
